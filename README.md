@@ -33,3 +33,9 @@ A serverless AWS workflow that reacts to email replies by archiving uploaded fil
 
 ## 🛠 File Structure
 email-driven-archival-system/ ├── lambdas/ │ ├── FileUploadNotifier.py │ └── DeleteFileMover.py ├── deployment-guide.md ├── README.md
+## 🧠 Tech Stack
+- AWS Lambda — serverless function logic
+- Amazon S3 — object storage for uploads and archives
+- Amazon SES — handles email sending and receipt
+- IAM Roles — fine-grained permission control
+
