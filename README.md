@@ -38,6 +38,16 @@ A serverless AWS workflow that reacts to email replies by archiving uploaded fil
 - [`deployment-guide.md`](./deployment-guide.md)
 - [`README.md`](./README.md)
 
+  
+---
+
+## 📬 Example Email Command
+
+To archive a file named `sample-report.pdf`, reply to the email notification with:
+
+
+- Delete [`sample-report.pdf`](./sample-report.pdf)
+
 
 ## 👨‍💻 Author
 **Leonard Phokane** · DevOps + Cloud Developer  
