@@ -32,7 +32,7 @@ A serverless AWS workflow that reacts to email replies by archiving uploaded fil
 ---
 
 ## 🛠 File Structure
-email-driven-archival-system/ ├── lambdas/ │ ├── FileUploadNotifier.py │ └── DeleteFileMover.py ├── deployment-guide.md ├── README.md
+email-driven-archival-system/ ├── [`lambdas/`](./lambdas) │ ├── FileUploadNotifier.py │ └── DeleteFileMover.py ├── deployment-guide.md ├── README.md
 
 
 ## 👨‍💻 Author
