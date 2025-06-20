@@ -1,5 +1,4 @@
-# email-driven-archival-system
-A serverless AWS workflow that archives uploaded files in response to email replies, using S3, Lambda, SES, and IAM.
+
 # ✉️ Email-Driven Archival System
 
 A serverless AWS workflow that reacts to email replies by archiving uploaded files. Built using **Amazon S3**, **Lambda**, **SES**, and **IAM**, this system allows users to upload files and later trigger file movement to an archive location just by replying to notification emails with a simple command.
