@@ -1,11 +1,3 @@
-## ✉️ Email-Driven Archival System
-_A serverless AWS workflow that..._
-
-## 🚀 How It Works
-1. **File Upload to S3**
-2. **Email Notification**
-3. **User Reply**
-4. **Email Parsed & Triggered**
 
 # ✉️ Email-Driven Archival System
 
