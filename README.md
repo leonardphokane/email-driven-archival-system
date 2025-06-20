@@ -44,3 +44,21 @@ A serverless AWS workflow that reacts to email replies by archiving uploaded fil
 Built with 💡 from AWS documentation and real-world curiosity.
 
 
+The system automatically moves it to the archive folder.
+
+---
+
+## 👨‍💻 Author
+
+**Leonard Phokane**  
+Developer · Cloud Architect in training  
+[GitHub Profile](https://github.com/leonardphokane)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
